@@ -1,0 +1,3 @@
+attribwrangle/snippet
+    Randoms Bound Box
+    @Cd = relbbox(0, @P);
